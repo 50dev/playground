@@ -1,15 +1,21 @@
-#2018.10.20 SAT
+# 2018.10.20 SAT
 - GitHub 설치
 - Visual Studio Code 설치
 - GitHub 프로젝트 생성
--- playground
+    - playground
 - 프로젝트 clone (내컴퓨터)
 - GitHub brench 생성
--- test01
+    - test01
 - test01 checkout (내 컴퓨터)
 - 파일 생성(MySchedules.md, WorkHistory.md)
 - 파일 추가
--- git add .
+    - git add .
 - 파일 커밋
--- (실패) 이메일 및 이름 설정 필요
+    - (실패) 이메일 및 이름 설정 필요
 - 이름 및 이메일 설정
+- 커밋 comment 오류로, 롤백 사용
+    - git reset --soft HEAD~
+- GitHub 에 반영
+    - git push
+    - GitHub 로그인 팝업이 뜸(처음에만 그런가?)
+    - 서버 주소 입력을 안해도 됨..(클론이어서 그런가?)
