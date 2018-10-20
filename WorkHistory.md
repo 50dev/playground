@@ -1,0 +1,15 @@
+#2018.10.20 SAT
+- GitHub 설치
+- Visual Studio Code 설치
+- GitHub 프로젝트 생성
+-- playground
+- 프로젝트 clone (내컴퓨터)
+- GitHub brench 생성
+-- test01
+- test01 checkout (내 컴퓨터)
+- 파일 생성(MySchedules.md, WorkHistory.md)
+- 파일 추가
+-- git add .
+- 파일 커밋
+-- (실패) 이메일 및 이름 설정 필요
+- 이름 및 이메일 설정
