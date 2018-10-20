@@ -2,7 +2,7 @@
 - GitHub 설치
 - Visual Studio Code 설치
 - GitHub 프로젝트 생성
- - playground
+    - playground
 - 프로젝트 clone (내컴퓨터)
 - GitHub brench 생성
  - test01
